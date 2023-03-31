@@ -1,3 +1,53 @@
-.room {
-    background-color: lightblue;
+/* Header */
+.header1 {
+    background-color: #ffff;
+}
+.logo_link {
+color: #4D5AE5;
+}
+
+.logo_link1 {
+color: #2E2F42;
+}
+
+.nav {
+    color: #2E2F42;
+}
+ .portfolio {
+    color: #2E2F42;
+ }
+
+ .add {
+    color: #434455;
+ }
+
+ /* Main */
+
+ .main1 {
+    background-color: #2E2F42;
+ }
+ .main1color {
+    color: #FFFFFF;
+
+ }
+ .main1menubutton {
+    background-color: #4D5AE5;
+    color: white;
+
+ }
+
+
+ /* Footer */
+.footer {
+    background-color: #2E2F42;
+}
+
+ .footerlogo {
+    color: #4D5AE5;
+ }
+.footerlogo1 {
+    color: #F4F4FD;
+}
+.footertext {
+    color: #F4F4FD;
 }
