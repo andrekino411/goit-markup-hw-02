@@ -1,13 +1,16 @@
 /* Header */
 .header1 {
-    background-color: #ffff;
+background-color: #ffff;
+
 }
 .logo_link {
 color: #4D5AE5;
+
 }
 
 .logo_link1 {
 color: #2E2F42;
+
 }
 
 .nav {
@@ -20,11 +23,39 @@ color: #2E2F42;
  .add {
     color: #434455;
  }
+.headeradd {
+
+}
+.add1 {
+
+}
+.add2 {
+
+}
+
+
+
+
+.allmain {
+position: relative;
+width: 1440px;
+height: 2592px;
+background: #FFFFFF;
+}
+
+
+
+
+
+
+
+
 
  /* Main */
 
  .main1 {
     background-color: #2E2F42;
+
  }
  .main1color {
     color: #FFFFFF;
@@ -35,7 +66,9 @@ color: #2E2F42;
     color: white;
 
  }
+.quality {
 
+}
 
  /* Footer */
 .footer {
