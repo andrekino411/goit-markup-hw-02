@@ -46,6 +46,9 @@
    color: #434455;
 
 }
+.addone:hover,:focus{
+   color: #404bbf;
+}
 /* MAIN */
 .secone {
    background-color: #2e2f42;
@@ -70,6 +73,9 @@
    cursor: pointer;
 
 }
+.butone:hover,:focus{
+   color: #404BBF;
+}
 .sectwo {
 
 }
@@ -83,6 +89,7 @@
 .psectwo {
    line-height: 1.5;
    letter-spacing: 0.02em;
+   color: #434455;
 
 }
 .secthree {
