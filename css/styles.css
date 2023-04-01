@@ -208,9 +208,18 @@ color: #2E2F42;
 }
 .sectionf {
    background-color: #F4F4FD;
+
+}
+.strategyf {
+   font-weight: 500;
+   font-size: 36px;
+   line-height: 1.11;
+   letter-spacing: 0.02em;
+   color: #2E2F42;
+   text-align: center;
+   text-transform: capitalize;
    
 }
-
 /* Footer */
  .footer {
 background-color: #2E2F42;
