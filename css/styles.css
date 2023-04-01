@@ -218,6 +218,23 @@ color: #2E2F42;
    color: #2E2F42;
    text-align: center;
    text-transform: capitalize;
+
+}
+.sec {
+   background-color: #FFFFFF;
+
+}
+.sect {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.sectp {
+   font-size: 16px;
+   line-height: 1.5;
+   letter-spacing: 0.02em;
    
 }
 /* Footer */
