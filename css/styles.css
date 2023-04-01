@@ -33,7 +33,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase
 }
 
-.list {
+.nav {
     color: #2E2F42;
     text-decoration: none;
     font-family: 'Roboto';
@@ -44,7 +44,7 @@ line-height: 24px;
 letter-spacing: 0.02em;
 list-style: none
 }
-.headeradd {
+.list {
    display: flex;
    flex-direction: row;
    align-items: flex-start;
@@ -55,6 +55,7 @@ list-style: none
    height: 24px;
    left: 347px;
    top: 24px;
+   list-style: none;
 
 
 
