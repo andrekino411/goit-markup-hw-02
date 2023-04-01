@@ -1,3 +1,4 @@
+:root
 /* Header */
 .header1 {
 background-color: #ffff;
@@ -105,6 +106,8 @@ position: relative;
 width: 1440px;
 height: 2592px;
 background: #FFFFFF;
+font-family: "Roboto", sans-serif;
+color: #434455
 
 
 
@@ -117,7 +120,7 @@ background: #FFFFFF;
 }
  /* Main */
  .textdelete {
-   tex
+   
  }
 .allmain {
 position: relative;
