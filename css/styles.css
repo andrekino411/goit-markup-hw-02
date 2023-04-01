@@ -30,21 +30,23 @@ font-weight: 800;
 font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
-text-transform: uppercase
+text-transform: uppercase;
+
 }
 
 .link2 {
-    color: #2E2F42;
-    text-decoration: none;
-    font-family: 'Roboto';
-    font-style: normal;
+color: #2E2F42;
+text-decoration: none;
+font-family: 'Roboto';
+font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: 24px;
 letter-spacing: 0.02em;
-list-style: none
+list-style: none;
 }
 .list {
+
    display: flex;
    flex-direction: row;
    align-items: flex-start;
@@ -56,6 +58,7 @@ list-style: none
    left: 347px;
    top: 24px;
    list-style: none;
+
 
 
 
