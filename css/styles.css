@@ -4,29 +4,33 @@
 background-color: #ffff;
 
 }
-.logo_link {
+.link {
 color: #4D5AE5;
 text-decoration: none;
-font-family: 'Raleway';
+font-family: "Raleway", sans-serif ;
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
-line-height: 1.05;
+line-height: 1.17;
 position: absolute;
 width: 115px;
 height: 24px;
 left: 156px;
 top: 24px;
+letter-spacing: 0.03;
+text-transform: uppercase
 }
 
-.logo_link1 {
+.link1 {
 color: #2E2F42;
 text-decoration: none;
-font-family: 'Raleway';
+font-family: "Raleway", sans-serif ;
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
-line-height: 1.05;
+line-height: 1.17;
+letter-spacing: 0.03;
+text-transform: uppercase
 }
 
 .nav {
