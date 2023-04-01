@@ -36,6 +36,9 @@
 .but:focus,:hover{
    color:  #404bbf;
 }
+.but:hover{
+   color: #404bbf;
+}
 .add {
    font-style: normal;
 
@@ -46,8 +49,11 @@
    color: #434455;
 
 }
-.addone:hover,:focus{
+.addone:hover{
    color: #404bbf;
+}
+.addone:focus {
+   color: :#404BBF;
 }
 /* MAIN */
 .secone {
@@ -73,8 +79,11 @@
    cursor: pointer;
 
 }
-.butone:hover,:focus{
-   background-color: #404BBF
+..butone:focus{
+   background-color: #404BBF;
+}
+.butone:hover{
+   background-color: #404BBF;
 }
 .sectwo {
 
@@ -165,9 +174,12 @@
    cursor: pointer;
    
 }
-.butall:focus,:hover{
+.butall:focus{
    color: #FFFFFF;
    background-color: #434455;
+}
+.butall:hover {
+   color: #404bbf 
 }
 .imgp {
 
