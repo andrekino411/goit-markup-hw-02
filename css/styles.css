@@ -17,7 +17,7 @@ width: 115px;
 height: 24px;
 left: 156px;
 top: 24px;
-letter-spacing: 0.03;
+letter-spacing: 0.03em;
 text-transform: uppercase
 }
 
@@ -29,11 +29,11 @@ font-style: normal;
 font-weight: 800;
 font-size: 18px;
 line-height: 1.17;
-letter-spacing: 0.03;
+letter-spacing: 0.03em;
 text-transform: uppercase
 }
 
-.nav {
+.list {
     color: #2E2F42;
     text-decoration: none;
     font-family: 'Roboto';
@@ -42,6 +42,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 24px;
 letter-spacing: 0.02em;
+list-style: none
 }
 .headeradd {
    display: flex;
