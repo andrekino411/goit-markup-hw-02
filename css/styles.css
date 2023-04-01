@@ -21,7 +21,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase
 }
 
-.link1 {
+.linkone {
 color: #2E2F42;
 text-decoration: none;
 font-family: "Raleway", sans-serif ;
@@ -51,7 +51,7 @@ text-transform: uppercase;
 
 
 }
-.link2 {
+.linktwo {
 color: #2E2F42;
 text-decoration: none;
 font-family: 'Roboto';
@@ -88,7 +88,7 @@ letter-spacing: 0.02em;
     font-size: 16px;
  }
 
-.add1 {
+.addone {
    text-decoration: none;
    position: absolute;
 width: 153px;
@@ -97,7 +97,7 @@ left: 940px;
 top: 24px;
 
 }
-.add2 {
+.addtwo {
    text-decoration: none;
    position: absolute;
 width: 151px;
@@ -128,7 +128,7 @@ color: #434455
 }
 .address {
 font-style: normal;
-line-height: 1.5
+line-height: 1.5;
 
 
 
@@ -278,4 +278,26 @@ font-weight: 400;
 font-size: 16px;
 line-height: 1.17;
 letter-spacing: 0.02em; 
+}
+
+
+/* PORTFOLIO */
+.addressp{
+line-height: 1.5;
+
+}
+.lip {
+   list-style: none;
+
+}
+.butall {
+   font-family: "Roboto", sans-serif;
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 1.5;
+   letter-spacing: 0.04em;
+   columns: #4d5ae5;
+   background-color:  #F4F4FD ;
+   cursor: pointer;
+
 }
