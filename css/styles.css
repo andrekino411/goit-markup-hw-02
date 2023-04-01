@@ -33,18 +33,6 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 
 }
-
-.link2 {
-color: #2E2F42;
-text-decoration: none;
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 24px;
-letter-spacing: 0.02em;
-list-style: none;
-}
 .list {
 
    display: flex;
@@ -63,6 +51,18 @@ list-style: none;
 
 
 }
+.link2 {
+color: #2E2F42;
+text-decoration: none;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+list-style: none;
+}
+
 
 
 
