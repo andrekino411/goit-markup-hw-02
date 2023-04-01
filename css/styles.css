@@ -53,7 +53,7 @@
    color: #404bbf;
 }
 .addone:focus {
-   color: :  #404bbf;
+   color:#404bbf;
 }
 /* MAIN */
 .secone {
@@ -179,13 +179,14 @@
    cursor: pointer;
    
 }
-.butall:focus{
-   color: color: #FFFFFF;
+.butall:focus {
+   color:  #FFFFFF;
    background-color: #404BBF;
 }
+
 .butall:hover {
    color: #FFFFFF;
-   background-color: color: #404BBF;
+   background-color:#404BBF;
 
 }
 .imgp {
