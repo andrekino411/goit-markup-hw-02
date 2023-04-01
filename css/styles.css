@@ -1,10 +1,20 @@
 :root
 /* Header */
-.header1 {
+.link {
+   text-decoration:none;
+   
+}
+.list {
+   list-style: none;
+   font-size: 16px;
+   line-height: 1.5;
+   letter-spacing: 0.02em;
+}
+.headerone {
 background-color: #ffff;
 
 }
-.link {
+.linkthree {
 color: #4D5AE5;
 text-decoration: none;
 font-family: "Raleway", sans-serif ;
@@ -33,7 +43,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 
 }
-.list {
+.listone {
 
    display: flex;
    flex-direction: row;
@@ -296,8 +306,7 @@ line-height: 1.5;
    font-size: 16px;
    line-height: 1.5;
    letter-spacing: 0.04em;
-   columns: #4d5ae5;
    background-color:  #F4F4FD ;
    cursor: pointer;
-
+   color: #4d5ae5;
 }
